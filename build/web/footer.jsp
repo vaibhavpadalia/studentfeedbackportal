@@ -1,0 +1,1 @@
+<h4 style=" bottom: 0;clear: both;width: 100%;height: 1% ;text-align:center;">&copy; All rights reserved. || Developed by: Vaibhav Padalia</h4>
